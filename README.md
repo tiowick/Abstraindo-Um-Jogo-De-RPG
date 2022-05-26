@@ -1,8 +1,8 @@
 # Abstraindo-Um-Jogo-De-RPG
 Segui os passos do professor e colclui o seu desafio de criar Hp e mais 2 personagens.
-Criei por conta propria a defesa bonus, Hp cheio, médio e pequeno.
+Aplicando meus conhecimentos criei por conta propria a defesa bonus, Hp cheio, médio e pequeno.
 Implementei um sistema de decisão do usuário.
-Breve terá um sistema de luta usando matemática
+Breve irei implementar um sistema de luta usando matemática.
 
 
 
