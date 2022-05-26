@@ -1,0 +1,14 @@
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfoInputs.cache
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.AssemblyInfo.cs
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.CoreCompileInputs.cache
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\bin\Debug\netcoreapp3.1\RPG.exe
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\bin\Debug\netcoreapp3.1\RPG.deps.json
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.json
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\bin\Debug\netcoreapp3.1\RPG.runtimeconfig.dev.json
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\bin\Debug\netcoreapp3.1\RPG.dll
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\bin\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.dll
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.pdb
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.genruntimeconfig.cache
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.csproj.AssemblyReference.cache
+C:\Users\jeferson\Desktop\Projetos\Projetos .NET\RPG\obj\Debug\netcoreapp3.1\RPG.GeneratedMSBuildEditorConfig.editorconfig
